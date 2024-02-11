@@ -1,10 +1,13 @@
 here i am showing git merging branch 
  
 this is new fearute this is my test ADD SOME POINT
-v
+ 
 
 this is new fearute this is my test
 
 this is new fearute add me test file hello itsp technology
 
+ 
+
+this is new fearute this is my test
  
