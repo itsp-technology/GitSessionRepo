@@ -1,2 +1,6 @@
 here i am showing git merging branch 
+
+this is new fearute this is my test
+
 this is new fearute add me test file
+
