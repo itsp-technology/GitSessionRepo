@@ -6,6 +6,7 @@ public class TestMain{
 				System.out.print("testing git fetch");
 stest
 st
+test
 
 }
 }
