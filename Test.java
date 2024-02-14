@@ -4,6 +4,7 @@ public class TestMain{
 	System.out.println("Now we can commit");
 		System.out.print("hell");
 				System.out.print("testing git fetch");
+stest
 
 }
 }
